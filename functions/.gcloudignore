@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore other common files not needed for deployment
+.git/
+.gitignore

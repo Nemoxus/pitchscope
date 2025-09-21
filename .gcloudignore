@@ -1,0 +1,13 @@
+# .gcloudignore
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore other common files
+.vscode/
+.idea/
+node_modules/
